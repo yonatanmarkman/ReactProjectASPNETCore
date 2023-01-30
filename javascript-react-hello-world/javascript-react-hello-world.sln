@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "javascript-react-hello-world", "javascript-react-hello-world.esproj", "{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactProjectASPNETCore-Backend", "..\ReactProjectASPNETCore-Backend\ReactProjectASPNETCore-Backend.csproj", "{232B7C8E-0000-4E8C-B9F7-CA2CA7C838C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E6035F-A9E3-4DAA-BF78-6814ACCB2331}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{232B7C8E-0000-4E8C-B9F7-CA2CA7C838C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232B7C8E-0000-4E8C-B9F7-CA2CA7C838C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232B7C8E-0000-4E8C-B9F7-CA2CA7C838C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232B7C8E-0000-4E8C-B9F7-CA2CA7C838C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F065E77E-FEB3-4528-AF30-60D3BEC86B3B}
+	EndGlobalSection
+EndGlobal
